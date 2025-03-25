@@ -1,2 +1,2 @@
 # computer_vision_midterm_demo
-computer_vision_midterm_demo
+要先把本repo中的檔案下載下來 在跑colab時 一clone完 就要刪掉/content/GaussianDreamer_main/中對應的檔案 上傳本repo中的檔案 之後才不會有bug可順跑
